@@ -1,5 +1,5 @@
 # Galactic Shield Web Game
-![Screenshot](![Снимок экрана (90)](https://github.com/user-attachments/assets/c82fd5d0-1b50-446e-9f91-5025b7fa8df9))
+![Снимок экрана (90)](https://github.com/user-attachments/assets/c82fd5d0-1b50-446e-9f91-5025b7fa8df9)
 
 This is the cool web game. That you certain would like to try. It is very interesting
 
